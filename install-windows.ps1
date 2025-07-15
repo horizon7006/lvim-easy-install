@@ -5,4 +5,4 @@ git clone https://github.com/LazyVim/starter $env:LOCALAPPDATA\nvim
 
 Remove-Item $env:LOCALAPPDATA\nvim\.git -Recurse -Force
 
-echo "Congrats! You have install LazyVim on Windows/PowerShell."
+Write-Host "Congrats! You have install LazyVim on Windows/PowerShell."
