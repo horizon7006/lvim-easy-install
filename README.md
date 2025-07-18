@@ -11,14 +11,14 @@ cd lvim-easy-install
 chmod +x install.sh
 ./install.sh
 ```
-On Windows/PowerShell
+On Windows
 ```ps1
 git clone https://github.com/lvim-easy-install.git
 cd lvim-easy-install
 .\install-windows.ps1
 ```
 
-If you're on Windows/PowerShell, Type this command so the script actually works.
+If you're on Windows, Type this command so the script actually works.
 ```ps1
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
