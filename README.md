@@ -6,14 +6,14 @@ This is an easy way to install LazyVim.
 
 On Unix systems (Linux, macOS etc.)
 ```bash
-git clone https://github.com/lvim-easy-install.git
+git clone https://github.com/horizon7006/lvim-easy-install.git
 cd lvim-easy-install
 chmod +x install.sh
 ./install.sh
 ```
 On Windows
 ```ps1
-git clone https://github.com/lvim-easy-install.git
+git clone https://github.com/horizon7006/lvim-easy-install.git
 cd lvim-easy-install
 .\install-windows.ps1
 ```
