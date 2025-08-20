@@ -6,10 +6,7 @@ This is an easy way to install LazyVim.
 
 On Unix systems (Linux, macOS etc.)
 ```bash
-git clone https://github.com/horizon7006/lvim-easy-install.git
-cd lvim-easy-install
-chmod +x install.sh
-./install.sh
+curl https://raw.githubusercontent.com/horizon7006/lvim-easy-install/refs/heads/main/install.sh | bash
 ```
 On Windows
 ```ps1
@@ -22,3 +19,4 @@ If you're on Windows, Type this command so the script actually works.
 ```ps1
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
+
